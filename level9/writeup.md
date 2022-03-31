@@ -2,7 +2,7 @@
 
 So in this challenge we can type a String into a input field and search a file. Luckily we can see how this whole thing is programmed by checking out the source code.
 
-![](/home/baldy/Desktop/OverTheWire-Natas/OverTheWire-Natas/level9/natas9.png) 
+![](natas9.png) 
 
 **Source Code**
 
@@ -45,7 +45,7 @@ how it looks like in the end for the application:
 Since I don't know how the password looks like I would just check for each character one-by-one. Of course I could write a script for this and don't do it manually but in this case I had a match on my first attempt so I didn't bother doing it.
 
 ### Result
-![](natas9 result.png)
+![](natas9-result.png) 
 
 The password is:  
 nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
