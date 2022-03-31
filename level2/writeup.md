@@ -8,7 +8,7 @@ Using the directory traversal attack by simply modifying the URL
 from:  
 *http://natas2.natas.labs.overthewire.org*  
 to:  
-*http://natas2.natas.labs.overthewire.org**/files/***
+*http://natas2.natas.labs.overthewire.org/files/*
 
 In this folder we can see the pixel.png and a text file called **users.txt**.  
 We can view the file in our browser by navigating to it.  

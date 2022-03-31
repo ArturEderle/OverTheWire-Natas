@@ -11,7 +11,7 @@ The robots.txt file is used to tell search engine crawlers which URLs they have 
 
 ## Back to the challenge
 We can view the robots.txt file from our browser by navigating to it.  
- *http://natas3.natas.labs.overthewire.org/**robots.txt***  
+ *http://natas3.natas.labs.overthewire.org/robots.txt*  
  Content of robots.txt:  
 ```
 User-agent: *

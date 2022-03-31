@@ -11,7 +11,7 @@ So since we can modify the request header (even from our browser by editing the 
 
 Sending the modified GET-Requests gives us a new page with the password.
 
-![ ](/home/baldy/Desktop/OverTheWire-Natas/OverTheWire-Natas/level4/natas4.png  "Natas 4 Result")
+![ ](natas4.png  "Natas 4 Result")
 
 So the password for Natas 5 is:  
 iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
