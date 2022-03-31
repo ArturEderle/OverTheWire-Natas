@@ -81,7 +81,8 @@ We are going to use the xor_encrypt function from the victim to get the key.
 **key** = pw8J  
 Since we know the key, we can build our own json object now with the showpassword property set to yes.  
 After that we base64 encode the json object and replace our default cookie with it.  
-** Exploit **
+
+**Exploit**
 
 ```php
 #!/usr/bin/env php
@@ -124,7 +125,9 @@ var_dump($cookie);
 
 ```
 
-** Result **
+
+**Result**
+
 ![](natas11.png) 
 
 The password is:  
