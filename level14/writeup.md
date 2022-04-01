@@ -3,7 +3,7 @@ We have a login form as the start page with the input fields username and passwo
 
 **Source Code**
 
-```
+```php
 <?
 if(array_key_exists("username", $_REQUEST)) {
     $link = mysql_connect('localhost', 'natas14', '<censored>');
