@@ -28,7 +28,7 @@ This looks like a simple **SQL-Injection**. We can see that the query is getting
 
 **Exploit**  
 In this case we can simply use **natas15** as the **username** and our password is going to be the injection point.  
-By using: **" OR "1"="1 **as the **password** we can turn the condition to true without knowing the password.  
+By using: **" OR "1"="1**as the **password** we can turn the condition to true without knowing the password.  
 Query that gets executed:  
 ```sql
 SELECT * from users where username="natas15" and password="" OR "1"="1"
