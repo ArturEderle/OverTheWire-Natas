@@ -66,4 +66,5 @@ while True:
 # WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
 ```
 
-
+The password is:  
+WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
