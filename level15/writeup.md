@@ -44,7 +44,7 @@ symbols = string.printable[:62]
 password = ""
 char = 0
 
-while True:
+while char != 62:
 	temp_pw = password
 	password += symbols[char]
 	# SQL: SELECT * from users where username="natas16" AND password LIKE BINARY {ourpw}%
@@ -57,10 +57,7 @@ while True:
 		char += 1
 	else:
 		char = 0
-
-	if char == 62:
-		break
-
+		
 	print(f"Password is: {password}")
 
 # WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
